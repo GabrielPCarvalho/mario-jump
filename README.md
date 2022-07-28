@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="" src="" width="50%">
+  <img alt="" src="https://user-images.githubusercontent.com/81686496/181616924-4f1ef3b7-3cfb-4b19-bda8-3b692751d2c4.png" width="50%">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto:
 
-Finalizado - para poder acessar o projeto, basta clicar no link a seguir: https://gabrielpcarvalho.github.io/mario-jump/ .
+Finalizado - para poder acessar o projeto, basta clicar no link a seguir: https://gabrielpcarvalho.github.io/mario-jump/
 
 ## 🎨 Inspiração:
 
@@ -47,7 +47,7 @@ Através de uma video aula do canal [Manual do Dev](https://www.youtube.com/c/Ma
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+none
 
 ---
 
